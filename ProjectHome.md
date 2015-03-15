@@ -1,0 +1,1 @@
+In Challenge Two, Doktat requires the user to refactor the StopWatchWithConditionalLogic application to an application that uses no conditional logic.  StopWatchWithoutConditionalLogic provides a solution.  Can you pass the challenge?
